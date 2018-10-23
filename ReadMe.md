@@ -20,6 +20,4 @@ for your username and "ECE458!" for the password. As admin you can edit and view
 and managers with different permissions.
 
 ## Contributions
-Chad Michael Coviel
-Walker Eacho
-Harry Guo
+Chad Michael Coviel, Walker Eacho, and Harry Guo
