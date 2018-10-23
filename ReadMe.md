@@ -18,3 +18,8 @@ Follow the instructions in the terminal to access the running application.
 Once you access the program, you will be prompted to input your username and password. The default credentials for admin access is "admin"
 for your username and "ECE458!" for the password. As admin you can edit and view multiple aspects of the business as well as add new users
 and managers with different permissions.
+
+## Contributions
+Chad Michael Coviel
+Walker Eacho
+Harry Guo
