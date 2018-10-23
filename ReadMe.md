@@ -4,6 +4,9 @@ This web application manages multiple aspects of your food company from vendors 
 
 ## How to run (Mac)
 
+IMPORTANT NOTE: This project was developed using Meteor version 1.6.1 and thus there are no guarantees that it is fully compatible with 
+later versions.
+
 Copy the repository to a location of your choice. Install Meteor on your computer if you have not already done so along with npm.
 Once installed you can type "meteor" into the terminal while inside the project containing directory to run the program. 
 If you receive any errors when trying to run with meteor, try running the command "meteor reset" and then try running meteor again. 
